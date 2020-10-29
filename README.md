@@ -9,12 +9,12 @@ Meu Git Serve para mostrar um pouco das minhas aventuras no mundo da programaç�
 
 ## Minhas Habilidades 🏆:
 
-## HTML;
-## CSS;
-## C;
-## Python;
-## ObjectPascal(DELPHI);
-## SQL;
-## PHP(Estudando);
+ HTML;
+ CSS;
+ C;
+ Python;
+ ObjectPascal(DELPHI);
+ SQL;
+ PHP(Estudando);
 
 
