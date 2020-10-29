@@ -16,9 +16,11 @@ Meu Git Serve para mostrar um pouco das minhas aventuras no mundo da programa√ß√
  <p><h3>ObjectPascal(DELPHI);</h3>
  <p><h3>SQL;</h3>
  <p><h3>PHP(Estudando);</h3>
+<br>
+<br>
+<br>
 
-
-## RedesSocias :
+<h4> RedesSocias :</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jvrs2812//)](https://https://www.linkedin.com/in/jvrs2812//)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jvrs2812)](https://twitter.com/jvrs2812)
