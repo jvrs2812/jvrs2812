@@ -19,7 +19,8 @@ Meu Git Serve para mostrar um pouco das minhas aventuras no mundo da programa√ß√
  <p><h3>JAVA;</h3>
  <p><h3>PHP(Estudando);</h3>
  <p><h3>Node.js(Estudando);</h3>
-
+ <p><h3>Assembly(Arquitetura Intel64)</h3>
+ 
 <h4> RedesSocias :</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvrs2812//)](https://www.linkedin.com/in/jvrs2812)
