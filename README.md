@@ -19,7 +19,7 @@ Meu Git Serve para mostrar um pouco das minhas aventuras no mundo da programa√ß√
  <p><h3>JAVA;</h3>
  <p><h3>PHP(Estudando);</h3>
  <p><h3>Node.js(Estudando);</h3>
- <p><h3>Assembly(Arquitetura Intel64)</h3>
+ <p><h3>Assembly(Arquitetura Intel64);</h3>
  
 <h4> RedesSocias :</h4>
 
