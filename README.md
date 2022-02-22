@@ -1,6 +1,6 @@
 ### Olá Pessoal 👍
 
-Meu nome é João, tenho 19 anos e estou no mundo da programação a uns 6 anos e inicie o curso de Ciências da Computação no ano de 2020.
+Meu nome é João, tenho 20 anos e estou no mundo da programação a uns 6 anos e inicie o curso de Ciências da Computação no ano de 2020.
 
 Trabalho Atualmente como programador fullstack, mexendo com banco de dados FireBirdSQL e com a linguagem ObjectPascal com o Delphi e desenvolvendo 
 mobile com Flutter
