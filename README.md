@@ -12,7 +12,7 @@ Meu Git Serve para mostrar um pouco das minhas aventuras no mundo da programa√ß√
 
  <p><h3>HTML;</h3>
  <p><h3>CSS;</h3>
- <p><h3>C;</h3>
+ <p><h3>C#;</h3>
  <p><h3>JavaScript;</h3>
  <p><h3>Python;</h3>
  <p><h3>Flutter(Dart);</h3>
